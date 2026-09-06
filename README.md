@@ -1,1 +1,2 @@
 # SQUIREE
+Author-ANSH PAWAR
